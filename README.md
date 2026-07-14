@@ -14,7 +14,9 @@ Throughout my career, I have worked on SaaS platforms, ERP systems, administrati
 
 My main experience is with **React, TypeScript, PHP, Laravel, Python, FastAPI, Node.js, SQL databases and Docker**.
 
-I am most effective as an individual contributor who can take ownership of a technical problem, understand the business rules involved and deliver a complete solution.
+I have a hands-on profile and enjoy taking ownership of technical problems, from understanding the business requirements to implementing and delivering the solution.
+
+I work well in collaborative environments while also having the autonomy to investigate problems, make technical decisions and move tasks forward.
 
 I have experience both creating new applications and working with existing systems, including legacy modernization, integrations, production maintenance and performance improvements.
 
