@@ -130,7 +130,7 @@ I also worked with Java applications for road traffic monitoring, participating 
 
 - I start by understanding the problem and the business rules behind it
 - I investigate root causes instead of only treating symptoms
-- I am comfortable working independently and taking ownership of deliveries
+- I collaborate well with teams while maintaining autonomy over my deliveries
 - I can work across backend, frontend, databases and deployment
 - I value simple, maintainable solutions over unnecessary complexity
 - I have experience working with both modern applications and legacy systems
