@@ -1,8 +1,8 @@
 # Hi, I'm Alisson Dourado 👋
 
-**Senior Full-Stack Developer** with 13 years of experience building, modernizing and maintaining web applications, business systems, APIs, integrations and automation solutions.
+**Senior Full-Stack Developer** with 13 years of experience building, maintaining and improving web applications, business systems, APIs, integrations and automation solutions.
 
-I have worked across the full software development lifecycle, from requirements analysis and backend architecture to frontend development, infrastructure, deployment and production support.
+I am a hands-on developer focused on understanding complex problems, investigating their root causes and implementing practical solutions from backend to frontend and deployment.
 
 Based in Florianópolis, Brazil, and open to remote opportunities.
 
@@ -10,30 +10,32 @@ Based in Florianópolis, Brazil, and open to remote opportunities.
 
 ## About me
 
-Throughout my career, I have worked on enterprise platforms, ERP systems, SaaS applications, financial modules, administrative dashboards, real-time systems, payment integrations and business process automation.
+Throughout my career, I have worked on SaaS platforms, ERP systems, administrative dashboards, payment integrations, real-time applications, automation tools and business-critical systems.
 
-My background combines experience with legacy system modernization and modern application development using technologies such as React, TypeScript, PHP, Symfony, Laravel, Python, FastAPI, Docker and relational and non-relational databases.
+My main experience is with **React, TypeScript, PHP, Laravel, Python, FastAPI, Node.js, SQL databases and Docker**.
 
-I am comfortable working independently, collaborating with multidisciplinary teams and taking ownership of features from planning to production.
+I am most effective as an individual contributor who can take ownership of a technical problem, understand the business rules involved and deliver a complete solution.
+
+I have experience both creating new applications and working with existing systems, including legacy modernization, integrations, production maintenance and performance improvements.
 
 ---
 
 ## What I work with
 
 - Full-stack web application development
-- SaaS and multi-tenant platforms
-- REST API development and integration
+- REST APIs and external service integrations
+- SaaS and multi-tenant applications
 - Administrative and financial dashboards
 - Payment gateway and webhook integrations
 - Business process automation
-- Real-time applications and WebSockets
-- Legacy system modernization
-- Dockerized development and production environments
-- CI/CD pipelines and application deployment
+- Background jobs and asynchronous processing
+- Real-time features using WebSockets
+- Maintenance and modernization of existing systems
+- Linux and Docker-based environments
 
 ---
 
-## Core technologies
+## Main stack
 
 ### Frontend
 
@@ -41,30 +43,29 @@ I am comfortable working independently, collaborating with multidisciplinary tea
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
 
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-### Databases and infrastructure
+### Databases and environment
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+### Additional experience
+
+I have also worked on projects that used **Symfony, API Platform, MongoDB, Kubernetes, Jenkins, Keycloak, Celery, Java, Spring MVC, JSF and Hibernate**.
+
+These technologies were part of specific professional environments and do not represent the main focus of my current stack.
 
 ---
 
@@ -72,115 +73,89 @@ I am comfortable working independently, collaborating with multidisciplinary tea
 
 ### Senior Full-Stack Developer — Freelance
 
-Development and customization of web platforms, multi-tenant systems, administrative panels and integrations with external APIs.
+Development, customization and maintenance of web platforms for different business requirements.
 
 Recent work includes:
 
 - Full-stack web application development
-- Payment gateway integrations
+- Multi-tenant platforms and administrative panels
+- REST APIs and integrations with external services
+- Payment gateway and webhook integrations
 - Business process automation
-- Administrative and financial dashboards
-- Linux and Docker deployments
-- Maintenance and evolution of production systems
-- Development of platforms for clients in different business domains
+- Financial and operational dashboards
+- Production maintenance and troubleshooting
+- Deployment in Linux and Docker environments
 
 ### Senior Full-Stack Developer — Evolutto
 
-Worked on an enterprise multi-tenant mentoring platform using React, TypeScript, Symfony and API Platform.
+Worked on an enterprise multi-tenant mentoring platform.
 
-One of my main responsibilities was the migration of the platform's videoconferencing infrastructure from Jitsi to LiveKit.
+One of my main responsibilities was migrating the platform's videoconferencing solution from Jitsi to LiveKit.
 
-The project involved:
+The work included:
 
-- Frontend integration with React and TypeScript
-- Backend development with PHP, Symfony and API Platform
-- Meeting, participant and recording flow adaptations
-- Integration with Docker, Kubernetes, Jenkins, MongoDB and Keycloak
-- Performance, stability and scalability improvements
-- Collaboration on technical and architectural decisions
+- Frontend implementation with React and TypeScript
+- Integration with the existing PHP, Symfony and API Platform backend
+- Adaptation of meeting, participant and recording flows
+- Investigation and resolution of integration issues
+- Performance and stability improvements
+- Work within an environment using Docker, Kubernetes, Jenkins, MongoDB and Keycloak
 
-### Founder and Backend Developer — AD Soluções em Tecnologia
+### Founder and Full-Stack Developer — AD Soluções em Tecnologia
 
-Founded and developed technology solutions focused on APIs, automation and real-time applications.
-
-Main responsibilities included:
-
-- Backend development with Python and Django
-- External API integrations
-- Docker and Linux infrastructure
-- Web automation and data processing
-- CI/CD pipelines with GitHub Actions
-- Real-time dashboards using WebSockets
-- Technical team management and developer mentoring
-
-### Systems Analyst — Telplastic
-
-Developed and maintained an ERP system in PHP and MySQL for an industrial company.
-
-The system included modules for:
-
-- Inventory
-- Manufacturing
-- Sales
-- Accounts payable and receivable
-- Electronic invoices
-- Fiscal documentation
-- Bank and external service integrations
-
-I was also responsible for requirements analysis, user support, documentation and Linux/Apache deployments.
-
-### Java Developer — Atlanta Tecnologia
-
-Worked on Java applications for road traffic monitoring and enforcement systems.
+Developed a financial market automation platform and supporting systems.
 
 Main activities included:
 
-- Migration of legacy Delphi applications to web technologies
-- Development with JSF, PrimeFaces, Spring MVC and Hibernate
-- PostgreSQL database integration
-- Unit and integration testing
-- Maintenance of business-critical applications
+- API development with Python, FastAPI and SQLAlchemy
+- Data persistence with MySQL
+- Dashboard development with React and TypeScript
+- Background processing with Celery and Redis
+- Real-time communication using WebSockets
+- Integration with financial services and external APIs
+- Process automation and data processing
+- Application deployment and maintenance using Docker and Linux
+
+### Earlier experience
+
+Before that, I worked on the development and maintenance of an industrial ERP system using PHP and MySQL, including inventory, manufacturing, sales, financial and fiscal modules.
+
+I also worked with Java applications for road traffic monitoring, participating in the migration of legacy Delphi systems to web applications using JSF, PrimeFaces, Spring MVC, Hibernate and PostgreSQL.
 
 ---
 
-## Engineering principles
+## How I work
 
-I value software that is:
-
-- Maintainable and easy to understand
-- Secure and properly validated
-- Well documented
-- Covered by meaningful automated tests
-- Observable through logs and monitoring
-- Prepared for real production environments
-- Built around clear business requirements
+- I start by understanding the problem and the business rules behind it
+- I investigate root causes instead of only treating symptoms
+- I am comfortable working independently and taking ownership of deliveries
+- I can work across backend, frontend, databases and deployment
+- I value simple, maintainable solutions over unnecessary complexity
+- I have experience working with both modern applications and legacy systems
 
 ---
 
-## Featured projects
+## Public work
 
-Some of my commercial work is stored in private repositories due to client confidentiality.
+Most of my recent commercial work is stored in private repositories due to client confidentiality.
 
-I am currently organizing public projects that demonstrate:
+I am currently preparing public reference projects focused on:
 
-- Multi-tenant SaaS architecture
+- Full-stack SaaS applications
 - API and webhook processing
 - Authentication and authorization
 - Payment integrations
 - Background jobs and queues
-- Docker-based environments
+- Administrative dashboards
+- Docker-based development environments
 - Automated testing and CI/CD
-- Administrative dashboards and automation workflows
-
-Check the pinned repositories below to see my public work.
 
 ---
 
 ## Currently
 
-- Working on full-stack applications and automation solutions
-- Building public reference projects based on real-world engineering practices
-- Improving test coverage, documentation and CI/CD across my projects
+- Working on full-stack systems, integrations and automation solutions
+- Organizing public projects based on real-world development scenarios
 - Open to remote Full-Stack and Backend Developer opportunities
 
 ---
