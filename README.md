@@ -137,23 +137,6 @@ I also worked with Java applications for road traffic monitoring, participating 
 
 ---
 
-## Public work
-
-Most of my recent commercial work is stored in private repositories due to client confidentiality.
-
-I am currently preparing public reference projects focused on:
-
-- Full-stack SaaS applications
-- API and webhook processing
-- Authentication and authorization
-- Payment integrations
-- Background jobs and queues
-- Administrative dashboards
-- Docker-based development environments
-- Automated testing and CI/CD
-
----
-
 ## Currently
 
 - Working on full-stack systems, integrations and automation solutions
